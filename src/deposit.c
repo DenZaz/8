@@ -7,7 +7,7 @@ int proverka (int sum, int sr)
     int ch;
     int den;
   
-if (sum<10000)
+if (sum<=10000)
 {
      ch = 1;  
     }
