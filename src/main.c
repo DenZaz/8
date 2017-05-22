@@ -28,7 +28,7 @@ if ( sum < 100000)
 {
 if (sr < 31 && 0 <= sr)
 {  
-    printf ("Vasha summa sostavlyaetttt %d\n\n\n", proverka(sum, sr));                       
+    printf ("Vasha summa sostavlyaet %d\n\n\n", proverka(sum, sr));                       
     }  
 if (sr < 121 && 31 <= sr)
 {  
